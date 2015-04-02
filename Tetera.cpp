@@ -160,7 +160,6 @@ void specialKeys( unsigned char key, int x, int y ) {
         break;
          }
     default:
-//turquoise
     break;
     }
   glutPostRedisplay();
